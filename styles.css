@@ -1,0 +1,33 @@
+body {
+    background-color: #DDDDDD;
+    font-family: "Merriweather", serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #eeee;
+}
+
+.header_dark_green {
+    background-color: #627254;
+    color: #EEEE;
+    height: 26vh; 
+    padding-left: 2vw; 
+    padding-top: 1.5vh; 
+}
+
+.avatar {
+    float: right;
+    margin-top: -19vh; 
+    margin-right: 6vw; 
+}
+
+.linked {
+    display: flex;
+    gap: 5vw;
+    align-items: center;
+    font-weight: lighter;
+}
+
+
