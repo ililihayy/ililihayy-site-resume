@@ -9,6 +9,7 @@ a {
     color: #eeee;
 }
 
+/* Header */
 .header_dark_green {
     background-color: #627254;
     color: #EEEE;
@@ -28,6 +29,61 @@ a {
     gap: 5vw;
     align-items: center;
     font-weight: lighter;
+}
+
+/* About me */
+.container_about{
+    display: flex;
+    justify-content: center;
+    margin-top: 2vh;
+}
+
+.about_me{
+    background-color: #76885B;
+    color: #EEEE;
+    width: 94vw;
+    padding: 2.5vh;
+    padding-top: 0.8vh;
+}
+
+.about_me h2
+{
+    font-size: 21px;
+    font-weight: bolder;
+}
+
+/* Skills */
+.skills{
+    color: #4A583E;
+    margin-left: 4.8vh;
+    font-size: 18px;
+}
+
+.skills_list{
+    display: flex;
+    gap: 3vw;
+    align-items: stretch;
+    margin-top: -3vh;
+    margin-left: 5vh;
+}
+
+.skills h2{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.skills p{
+    font-weight: 600;
+    width: 20vw;
+    font-size: 20px;
+}
+
+/* Experience */
+.h2_experience{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #4A583E;
+    margin-left: 4.8vh;
 }
 
 
