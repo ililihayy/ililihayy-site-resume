@@ -86,4 +86,33 @@ a {
     margin-left: 4.8vh;
 }
 
+.exp_container{
+    display: flex;
+    justify-content: center;
+}
+
+.Experience{
+    background-color: #76885B;
+    width: 95vw;
+    color: #EEEE;
+    font-size: 18px;
+    padding-left: 2vh;
+
+    display: flex;
+    gap: 4vw;
+    align-items: stretch;
+
+}
+
+.Experience ul{
+    font-size: 16px;
+}
+
+.python_game_dev, .team_python, .team_c{
+    width: 28vw;
+}
+
+.date_work{
+    font-style: italic;
+}
 
