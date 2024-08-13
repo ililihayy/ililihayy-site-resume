@@ -20,7 +20,7 @@ a {
 
 .avatar {
     float: right;
-    margin-top: -19vh; 
+    margin-top: -18.5vh; 
     margin-right: 6vw; 
 }
 
@@ -116,3 +116,30 @@ a {
     font-style: italic;
 }
 
+/* Education */
+
+.h2_education{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #4A583E;
+    margin-left: 4.8vh;
+}
+
+.education{
+    background-color: #76885B;
+    width: 95vw;
+    color: #EEEE;
+    font-size: 16px;
+    padding-left: 2vh;
+    margin-bottom: 5vh;
+
+}
+
+.edu_container{
+    display: flex;
+    justify-content: center;
+}
+
+.education h4{
+    font-size: 19px;
+}
